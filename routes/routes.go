@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"makkonen.com/gr-clone/controllers"
+	"makkonen.com/go-mongo/controllers"
 )
 
 func InitializeRoutes() *gin.Engine {
